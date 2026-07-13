@@ -1,49 +1,49 @@
-# ¡Hola! Soy Mauricio Hernández 👋
+# Hi there! I'm Mauricio Hernández 👋
 
 ### Software Engineer | Full-Stack Developer
-Me especializo en diseñar, desarrollar y desplegar aplicaciones web robustas, altamente escalables y eficientes. Cuento con más de 6 años de experiencia construyendo soluciones de extremo a extremo, optimizando el rendimiento del cliente y asegurando arquitecturas de backend sólidas.
+I specialize in designing, developing, and deploying robust, highly scalable, and efficient web applications[cite: 1]. I have over 6 years of experience building end-to-end solutions, optimizing client-side performance, and engineering solid backend architectures[cite: 1].
 
 ---
 
-## 🚀 Tecnologías y Herramientas
+## 🚀 Tech Stack & Tools
 
 ### **Front-End**
-* **Frameworks:** Angular, React JS, Blazor WebAssembly
-* **Estilos y UI:** Bootstrap, Tailwind CSS, Ant Design, Material UI (MUI), PrimeReact
+* **Frameworks:** Angular, React JS, Blazor WebAssembly[cite: 1]
+* **Styling & UI:** Bootstrap, Tailwind CSS, Ant Design, Material UI (MUI), PrimeReact[cite: 1]
 
-### **Back-End & Bases de Datos**
-* **Lenguajes y Frameworks:** .NET (C#), Node.js, CodeIgniter 4 (PHP)
-* **Bases de Datos:** SQL Server, MySQL
+### **Back-End & Databases**
+* **Languages & Frameworks:** .NET (C#), Node.js, CodeIgniter 4 (PHP)[cite: 1]
+* **Databases:** SQL Server, MySQL[cite: 1]
 
 ### **AI Tools & Workflow Optimization**
-* Herramientas de código asistido con las que optimizo mis flujos de desarrollo diarios: **Cursor**, **GitHub Copilot**, **Claude Code** y **Antigravity**.
+* Coding assistants and AI tools I leverage to streamline my daily development workflows: **Cursor**, **GitHub Copilot**, **Claude Code**, and **Antigravity**[cite: 1].
 
 ---
 
-## 💼 Experiencia Destacada
+## 💼 Highlighted Experience
 
-#### **Software Engineer** en *Thomson Reuters* *(Diciembre 2024 - Presente)*
-* **Optimización y UX:** Mejora del rendimiento en plataformas corporativas construidas con Angular, elevando la experiencia de usuario.
-* **Backend de Alto Rendimiento:** Ingeniería de servicios backend escalables y APIs RESTful bajo la arquitectura empresarial de .NET.
-* **Innovación con IA:** Integración de asistentes de codificación avanzados para acelerar los flujos de desarrollo y asegurar la calidad del código.
+#### **Software Engineer** at *Thomson Reuters* *(December 2024 - Present)*[cite: 1]
+* **Performance & UX:** Drove client-side performance enhancements across Angular corporate platforms, substantially elevating overall user experience (UX)[cite: 1].
+* **High-Performance Backend:** Engineered scalable backend services and RESTful APIs within the .NET enterprise architecture[cite: 1].
+* **AI Innovation:** Leveraged advanced AI tools and coding assistants to accelerate development workflows and optimize overall code quality[cite: 1].
 
-#### **Developer** en *B-More* *(Agosto 2022 - Diciembre 2024)*
-* Desarrollo integral Full-Stack (Node.js, React, Angular) centrado en el rendimiento y la atención personalizada a clientes técnicos.
+#### **Developer** at *B-More* *(August 2022 - December 2024)*[cite: 1]
+* Delivered integral Full-Stack development (Node.js, React, Angular) focused on optimizing performance and providing personalized technical customer service[cite: 1].
 
-#### **Full Stack Developer** en *Figment* *(Junio 2020 - Agosto 2022)*
-* Creación de soluciones escalables utilizando el patrón MVC con CodeIgniter 4 e integración de módulos de API REST.
-
----
-
-## 🛠️ Proyectos Personales & Hobbies
-Cuando no estoy programando a nivel empresarial, me gusta experimentar con la tecnología a nivel personal:
-* **Automatización:** Desarrollo de scripts y automatizaciones de hardware (como setups con OpenRGB).
-* **Gaming:** Exploración de mecánicas de juego avanzadas y creación de contenido.
-* **Ilusionismo:** Practicante entusiasta de la magia de cerca y cartomagia.
+#### **Full Stack Developer** at *Figment* *(June 2020 - August 2022)*[cite: 1]
+* Built scalable web solutions utilizing the CodeIgniter 4 MVC framework (PHP) and created REST API modules[cite: 1].
 
 ---
 
-## 🎯 Conectemos
-* 📍 Estado de México, México
-* 📧 [mhernandez4204@gmail.com](mailto:mhernandez4204@gmail.com)
-* 💼 [Mi perfil de LinkedIn](https://www.linkedin.com/in/mauricio-hernandez-gomez/)
+## 🛠️ Personal Projects & Hobbies
+When I'm not coding enterprise solutions, I love experimenting with technology and hands-on projects:
+* **Automation:** Scripting and hardware automation (such as custom setups using OpenRGB)[cite: 1].
+* **Gaming:** Exploring complex game mechanics and content creation[cite: 1].
+* **Magic:** Enthusiastic practitioner of magic and close-up illusionism[cite: 1].
+
+---
+
+## 🎯 Connect with Me
+* 📍 State of Mexico, Mexico[cite: 1]
+* 📧 [mhernandez4204@gmail.com](mailto:mhernandez4204@gmail.com)[cite: 1]
+* 💼 [My LinkedIn Profile](https://www.linkedin.com/in/mauricio-hernandez-gomez/)
