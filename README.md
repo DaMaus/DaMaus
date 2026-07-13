@@ -44,6 +44,6 @@ When I'm not coding enterprise solutions, I love experimenting with technology a
 ---
 
 ## 🎯 Connect with Me
-* 📍 State of Mexico, Mexico[cite: 1]
-* 📧 [mhernandez4204@gmail.com](mailto:mhernandez4204@gmail.com)[cite: 1]
+* 📍 State of Mexico, Mexico
+* 📧 [mhernandez4204@gmail.com](mailto:mhernandez4204@gmail.com)
 * 💼 [My LinkedIn Profile](https://www.linkedin.com/in/mauricio-hernandez-gomez/)
